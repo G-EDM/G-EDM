@@ -1,3 +1,13 @@
+# The old G-EDM EVOII CAD files are still available here:
+They don't open with FreeCAD 1.0.0 and to open them it requires a FreeCAD version < 1.0.0. Something like 0.2x or something.
+[>>> G-EDM EVOII Wire extension FreeCAD Project <<<](https://drive.google.com/file/d/1ZBrTBwRvTHIMtCySQIoWtpVMdJbfWR3E/view)
+</br>
+[>>> G-EDM EVOII Router FreeCAD Project <<<](https://drive.google.com/file/d/1OkYVYsVrToy4-q0G6XMzgWKsSyYXRRj4/view)
+</br>
+</br>
+
+
+
 # G-EDM EVOIII
 
 Github does not allow large files. The FreeCAD project for the router can be found here:
