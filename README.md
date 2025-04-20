@@ -29,3 +29,19 @@ https://www.pcbway.com/project/shareproject/G_EDM_EVOIII_Pulseboard_47cdc1b8.htm
 
 Motionboard:
 https://www.pcbway.com/project/shareproject/G_EDM_Low_budget_DIY_Wire_EDM_machine_34e1e043.html
+
+</br>
+</br>
+![G-EDM wire module build](https://raw.githubusercontent.com/G-EDM/G-EDM/refs/heads/main/images/wire-module/wire-module-01.jpg)
+</br>
+</br>
+![G-EDM EVOIII Router](https://raw.githubusercontent.com/G-EDM/G-EDM/refs/heads/main/images/1.png)
+</br>
+![G-EDM EVOIII Router](https://raw.githubusercontent.com/G-EDM/G-EDM/refs/heads/main/images/2.png)
+</br>
+![G-EDM EVOIII Router](https://raw.githubusercontent.com/G-EDM/G-EDM/refs/heads/main/images/3.png)
+
+
+
+
+
