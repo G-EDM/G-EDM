@@ -36,9 +36,9 @@ https://www.pcbway.com/project/shareproject/G_EDM_Low_budget_DIY_Wire_EDM_machin
 <img src="./images/wire-module/wire-module-01.jpg">
 </br>
 </br>
+<img src="./images/3.png"></br>
 <img src="./images/1.png"></br>
 <img src="./images/2.png"></br>
-<img src="./images/3.png"></br>
 </br></br>
 
 
