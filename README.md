@@ -1,17 +1,26 @@
 # G-EDM EVOIII
 
 Github does not allow large files. The FreeCAD project for the router can be found here:
+</br>
+</br>
 https://drive.google.com/file/d/14w7DUhiVvQ_dd1uddd4wYztnlCYuHb70/view?usp=drive_link
+</br>
+</br>
 
 At this point the EVOIII router is just a concept. The new wire module seems to be ok but I haven't build the full router yet and can't promise that everything works.
+</br>
 
 This router uses HGR15 linear rails instead of the chunky HGR20 rails. Possible that the slot 8 profiles may not combine well with the small HGR15 rails. Needs further testing.
+</br>
+</br>
 
 
 # Firmware
 
 https://github.com/G-EDM/G-RBL
 
+</br>
+</br>
 
 # PCBs
 
