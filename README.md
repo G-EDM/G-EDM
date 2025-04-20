@@ -13,7 +13,8 @@ They don't open with FreeCAD 1.0.0 and to open them it requires a FreeCAD versio
 Github does not allow large files. The FreeCAD (1.0.0) project for the brand new EVOIII router can be found here:
 </br>
 </br>
-https://drive.google.com/file/d/14w7DUhiVvQ_dd1uddd4wYztnlCYuHb70/view?usp=drive_link
+[>>> G-EDM EVOIII Router FreeCAD 1.0.0 project file <<<](https://drive.google.com/file/d/14w7DUhiVvQ_dd1uddd4wYztnlCYuHb70/view?usp=drive_link)
+
 </br>
 </br>
 
