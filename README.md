@@ -29,7 +29,7 @@ Github does not allow large files. The FreeCAD (1.0.0) project for the brand new
 </br>
 </br>
 The EVOIII router is an all in one solution with integrated electronics, a more lightweight frame and a reduction in print material. 
-The new wire module is less complicated to build, easier to wire and uses the belt driven wire feeder designed by Alex Treseder for the PICO:
+The new wire module is less complicated to build, easier to wire and uses a modified version of the belt driven wire feeder designed by Alex Treseder for the PICO:
 </br>
     https://github.com/alextreseder/picoEDM
 </br>
