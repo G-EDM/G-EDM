@@ -78,7 +78,11 @@ https://www.pcbway.com/project/shareproject/G_EDM_Low_budget_DIY_Wire_EDM_machin
 <img src="./images/2.png"></br>
 </br></br>
 
+# Donations
 
+    * You want to donate something to support the project? 
+    * Paypal: paypal.me/gedmdev
+    * Bitcoin: bc1qkz8vwrd3pupewdtyg09qj9nv249vlgdy4ffhyv
 
 
 
