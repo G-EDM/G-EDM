@@ -20,16 +20,20 @@ They don't open with FreeCAD 1.0.0 and to open them it requires a FreeCAD versio
 
 # G-EDM EVOIII
 
-The EVOIII router is an all in one solution with integrated electronics, a more lightweight frame and a reduction in print material. 
-The new wire module is less complicated to build, easier to wire and uses the belt driven wire feeder designed by Alex Treseder for the PICO:
-</br>
-https://github.com/alextreseder/picoEDM
-</br>
-</br>
 Github does not allow large files. The FreeCAD (1.0.0) project for the brand new EVOIII router can be found here:
 </br>
 </br>
+# Download the EVOIII CAD file here:</br>
+
 [>>> G-EDM EVOIII Router FreeCAD 1.0.0 project file <<<](https://drive.google.com/file/d/14w7DUhiVvQ_dd1uddd4wYztnlCYuHb70/view?usp=drive_link)
+</br>
+</br>
+The EVOIII router is an all in one solution with integrated electronics, a more lightweight frame and a reduction in print material. 
+The new wire module is less complicated to build, easier to wire and uses the belt driven wire feeder designed by Alex Treseder for the PICO:
+</br>
+    https://github.com/alextreseder/picoEDM
+</br>
+</br>
 
 </br>
 </br>
