@@ -2,6 +2,12 @@
 gedm-support@proton.me
 </br>
 </br>
+
+<img src="./images/gedmbanner.jpg">
+
+</br>
+</br>
+
 # License
 
 All 3D models and FreeCAD files are OpenSource. Feel free to do with it whatever you want.
