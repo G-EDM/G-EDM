@@ -1,21 +1,25 @@
- 
-# G-EDM EVOIII Motionboard
-
+ # G-EDM EVOIII Motionboard
+</br>
+</br>
 The new EVOIII motionboard passed all tests but was not yet used in any real cutting operation! Use on your own risk and compare the placement
 of the components against the schematics. I made the BOM and centroid files very quick and so far the board was not ordered assembled using those files!
-
+</br>
+</br>
+<img src="./mb3.png" width="500">
+</br>
+</br>
 This board comes with a more thoughtful placement of all the breakouts and terminals.
-
-
+</br>
+</br>
 On the circuit itself not much changed except that this board provides a little pin socket to use a micro SD adapter card instead of the display integrated SD reader. Using the displays SD reader still works too.
-
-
+</br>
+</br>
 The common micro SD reader boards are build for 5v environments and it needs a little knowledge to get them working with the ESP32s 3.3v levels. I removed the voltage regulator and bridged two pads:
-
-
+</br>
+</br>
 https://hackaday.io/project/190371-g-edm/log/240049-testing-the-evoiii-motionboard
-
-
+</br>
+</br>
 This way the wires for the display can be longer without risking data loss on the SD channel. But this feature is for testing only and not needed.
 
 
