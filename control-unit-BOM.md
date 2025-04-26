@@ -66,7 +66,7 @@ at 60V and only one with the DPH8909.
 The DPM8605 is still not deprecated and a valid option. It costs only half of what the DPH costs and is easily available. The DPH8909 in
 the TTL version ships from china and can take two weeks to deliver.
 
-DPM8605 has a max inpt voltage of around 70v. I recommend 65-70v to power it. DPH8909 can take the full max voltage of the 0-80V PSU without problems.
+DPM8605 has a max input voltage of around 70v. I recommend 65-70v to power it. DPH8909 can take the full max voltage of the 0-80V PSU without problems.
 
 
 # About the 12V 10A PSU:
