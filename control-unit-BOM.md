@@ -1,19 +1,30 @@
 1x G-EDM EVOIII Pulseboard
+
 1x G-EDM EVOII or EVOIII Motionboard
 
 1x 10A 75mV Shunt
+
 1x 12V Cooling fan (No high speed fans. Simple 120mmx20mm silent fan is ok. High Speed fans may induce noise etc.)
+
 1x MEAN WELL APV-35-12 36W 12V 3A PSU
+
 1x 12v 10A PSU
+
 1x Lianshi 6A 0-80V variable voltage PSU
 
 ONE of those (TTL version! NOT RS-485 and also not the RF version!):
+
 1x DPH8909 Programmable Power Supply TTL 0-96V 0-9.6A
+
 1x DPM8605 Programmable Power Supply TTL 0-60V 0-5A
 
 1x ESP32 WROOM32 AZdelivery 38Pins CP2102
+
 1x ILI9341 SPI SD TOUCH
+
 4x TMC2209 v2 with big heatsink
+
+1x rocker switch (ON/OFF)
 
 JST wires of different types.
 
@@ -24,6 +35,10 @@ pulsing engine. And it also should not be placed next to the sparks. A strong di
 
 The pulse electronics and all PSUs need to be placed inside a metal box and the motionboard needs to be outside of this box.
 Best case would be to put the motionboard into a second metalbox. There are some limits about the distance between motionboard and pulseboard. The wires should be kept as short as possible and the DPH/DPM interface wire can create problems if it is too long.
+
+# Notes
+
+The ON/OFF switch is required! Limit switches are optional. The ON/OFF switch acts as eeStop in the process too. If it is not connected or turned to OFF the process will not start and all motion is blocked.
 
 
 # ESP32 note
