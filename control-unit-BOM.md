@@ -2,6 +2,16 @@
 
 1x G-EDM EVOII or EVOIII Motionboard
 
+1x ESP32 WROOM32 AZdelivery 38Pins CP2102
+
+1x ILI9341 SPI SD TOUCH
+
+4x TMC2209 v2 with big heatsink
+
+1x rocker switch (ON/OFF)
+
+JST wires of different types.
+
 1x 10A 75mV Shunt
 
 1x 12V Cooling fan (No high speed fans. Simple 120mmx20mm silent fan is ok. High Speed fans may induce noise etc.)
@@ -12,21 +22,13 @@
 
 1x Lianshi 6A 0-80V variable voltage PSU
 
-ONE of those (TTL version! NOT RS-485 and also not the RF version!):
+# ONE of those (TTL version! NOT RS-485 and also not the RF version!):
 
 1x DPH8909 Programmable Power Supply TTL 0-96V 0-9.6A
 
 1x DPM8605 Programmable Power Supply TTL 0-60V 0-5A
 
-1x ESP32 WROOM32 AZdelivery 38Pins CP2102
 
-1x ILI9341 SPI SD TOUCH
-
-4x TMC2209 v2 with big heatsink
-
-1x rocker switch (ON/OFF)
-
-JST wires of different types.
 
 # Warning
 
