@@ -29,6 +29,9 @@ ONE of those (TTL version! NOT RS-485 and also not the RF version!):
     1x DPM8605 Programmable Power Supply TTL 0-60V 0-5A
 
 
+# For wire EDM current from 0.4A to 1.6A are ok to use. Depends on how good the wire feeder is and how thick the wire.
+I normally settle at 1.2A or something like that. 
+
 
 # Warning
 
@@ -90,5 +93,5 @@ https://www.amazon.de/dp/B0BQ33XG33
 
 # Connecting the shunt
 
-It does not break anythin if the shunt sensing wires are connected wrong on the pulseboard. It would just not generate a feedback reading.
+It does not break anything if the shunt sensing wires are connected wrong on the pulseboard. It would just not generate a feedback reading.
 If no cFd reading is visible try swapping the shunt sensing wires on the terminal. High side goes to the left input. Or it should. Don't remember currently.
