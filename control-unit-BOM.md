@@ -22,11 +22,11 @@ JST wires of different types.
 
 1x Lianshi 6A 0-80V variable voltage PSU
 
-# ONE of those (TTL version! NOT RS-485 and also not the RF version!):
+ONE of those (TTL version! NOT RS-485 and also not the RF version!):
 
-1x DPH8909 Programmable Power Supply TTL 0-96V 0-9.6A
+    1x DPH8909 Programmable Power Supply TTL 0-96V 0-9.6A
 
-1x DPM8605 Programmable Power Supply TTL 0-60V 0-5A
+    1x DPM8605 Programmable Power Supply TTL 0-60V 0-5A
 
 
 
