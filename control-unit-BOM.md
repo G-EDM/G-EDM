@@ -40,7 +40,7 @@ Best case would be to put the motionboard into a second metalbox. There are some
 
 # Notes
 
-The ON/OFF switch is required! Limit switches are optional. The ON/OFF switch acts as eeStop in the process too. If it is not connected or turned to OFF the process will not start and all motion is blocked.
+The ON/OFF switch is required! Limit switches are optional. The ON/OFF switch acts as eStop in the process too. If it is not connected or turned to OFF the process will not start and all motion is blocked.
 
 
 # ESP32 note
