@@ -70,7 +70,7 @@ https://github.com/G-EDM/G-RBL
 Pulseboard EVOIII: 
 https://www.pcbway.com/project/shareproject/G_EDM_EVOIII_Pulseboard_47cdc1b8.html
 
-Motionboard EVOII (EVOIII motionboard is not available a PCBway shared project yet but should be soon):
+Motionboard EVOII (EVOIII motionboard is not available as PCBway shared project yet but should be soon):
 https://www.pcbway.com/project/shareproject/G_EDM_Low_budget_DIY_Wire_EDM_machine_34e1e043.html
 
 
