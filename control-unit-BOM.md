@@ -29,7 +29,9 @@ ONE of those (TTL version! NOT RS-485 and also not the RF version!):
     1x DPM8605 Programmable Power Supply TTL 0-60V 0-5A
 
 
-# For wire EDM current from 0.4A to 1.6A are ok to use. Depends on how good the wire feeder is and how thick the wire.
+# Cutting currents
+
+For wire EDM current from 0.4A to 1.6A are ok to use. Depends on how good the wire feeder is and how thick the wire.
 I normally settle at 1.2A or something like that. 
 
 
