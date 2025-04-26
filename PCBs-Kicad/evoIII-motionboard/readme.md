@@ -9,6 +9,18 @@ of the components against the schematics. I made the BOM and centroid files very
 </br>
 </br>
 This board comes with a more thoughtful placement of all the breakouts and terminals.
+
+# Changes compared to the EVOII
+</br>
+
+    - DIP switches to set the microsteps
+    - single JST terminal to connect the motionboard with the pulseboard
+    - 200 Ohm current limiting resistors on the feedback pins
+    - additional SD card SPI breakout to switch from display SD reader to micro SD reader board (both ways work but only one option at a time)
+    - better layout
+</br>
+</br>
+The EVOII is still compatible with everything and not deprecated. EVOII and EVOIII boards can be used.
 </br>
 </br>
 On the circuit itself not much changed except that this board provides a little pin socket to use a micro SD adapter card instead of the display integrated SD reader. Using the displays SD reader still works too.
