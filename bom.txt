@@ -1,0 +1,15 @@
+# Not much done here yet for the new router
+
+
+Ballscrews: 
+2x 1605 500mm with BK/BF bearing blocks
+
+Linear rails:
+2x 450mm HGR15 
+2x 500mm HGR15
+
+GT2 belts and pulleys:
+2x GT2 60T Pulley; 10mm bore; for 10mm belt
+2x GT2 20T Pulley; 5mm bore; for 10mm belt
+
+Belt length not known yet
