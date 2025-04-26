@@ -17,6 +17,14 @@ ONE of those (TTL version! NOT RS-485 and also not the RF version!):
 
 JST wires of different types.
 
+# Warning
+
+EDM creates a lot of EMI noise. The motionboard with the sensitive ESP and SPI communication needs to be isolated from the 
+pulsing engine. And it also should not be placed next to the sparks. A strong discharge can mess things up pretty easy.
+
+The pulse electronics and all PSUs need to be placed inside a metal box and the motionboard needs to be outside of this box.
+Best case would be to put the motionboard into a second metalbox. There are some limits about the distance between motionboard and pulseboard. The wires should be kept as short as possible and the DPH/DPM interface wire can create problems if it is too long.
+
 
 # ESP32 note
 
