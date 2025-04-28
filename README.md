@@ -75,7 +75,7 @@ Motionboard EVOII (Will be replaced by the EVOIII board):
 https://www.pcbway.com/project/shareproject/G_EDM_Low_budget_DIY_Wire_EDM_machine_34e1e043.html
 </br>
 </br>
-Motionboard EVOIII (Board work but I haven't ordered the boards with PCBA service. On your own risk.)
+Motionboard EVOIII (Board works but I haven't ordered it with PCBA service yet. On your own risk.)
 https://www.pcbway.com/project/shareproject/W532897ASC41_motionboard_evoIII_rev3_bb113e0f.html
 
 
