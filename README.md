@@ -84,6 +84,25 @@ https://www.pcbway.com/project/shareproject/G_EDM_Low_budget_DIY_Wire_EDM_machin
 <img src="./images/2.png"></br>
 </br></br>
 
+
+# Connecting the TTL interface from the DPM or DPH to the motionboard
+</br></br>
+
+    There are two motionboard. EVOII and in the future the EVOIII board
+    The EVOII board has RX and TX swapped. The EVOIII has it in the correct order mirroring the output terminal
+    on the DPM and DPH.
+</br></br>
+# EVOII Motionboard to DPM/DPH
+<img width="800"  src="./images/DPMtoEVOIIMotionboard.png">
+</br></br>
+
+
+# EVOIII Motionboard to DPM/DPH
+<img width="800" src="./images/DPMtoEVOIIIMotionboard.png">
+</br></br>
+
+
+
 # Donations
 
     * You want to donate something to support the project? 
