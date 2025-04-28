@@ -91,9 +91,9 @@ https://www.pcbway.com/project/shareproject/W532897ASC41_motionboard_evoIII_rev3
 </br>
 <img width="600" src="./images/wire-module/wire-module-01.jpg">
 </br>
-<img width="600" src="./images/3.png"></br>
-<img width="600" src="./images/1.png"></br>
-<img width="600" src="./images/2.png"></br>
+<img width="500" src="./images/3.png">
+<img width="500" src="./images/1.png">
+<img width="500" src="./images/2.png">
 </br></br>
 
 
