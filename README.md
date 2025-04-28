@@ -87,7 +87,8 @@ https://www.pcbway.com/project/shareproject/G_EDM_Low_budget_DIY_Wire_EDM_machin
 
 # Connecting the TTL interface from the DPM or DPH to the motionboard
 
-    There are two motionboard. EVOII and in the future the EVOIII board
+    There are two motionboards. EVOII and in the future the EVOIII board.
+    The EVOIII board will replace the EVOII board.
     The EVOII board has RX and TX swapped. The EVOIII has it in the correct order mirroring the output terminal
     on the DPM and DPH.
 </br></br>
