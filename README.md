@@ -61,7 +61,7 @@ https://github.com/G-EDM/G-RBL
 
 </br>
 </br>
-<img src="./images/evoset.jpg">
+<img width="800" src="./images/evoset.jpg">
 </br>
 </br>
 
