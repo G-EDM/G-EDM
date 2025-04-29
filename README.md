@@ -114,6 +114,30 @@ https://www.pcbway.com/project/shareproject/W532897ASC41_motionboard_evoIII_rev3
 
 
 
+
+# Adjust vFd to match the new stock configuration
+
+The new code has a different configuration for the voltage feedback (vFd) short circuit threshold. 
+The new default vFd should be almost 4000 @ the max possible voltage. Set the DPM/DPH to the max voltage. if the DPH is used with the 0-80V PSU something around 80V is the max possible. With the DPM it is 60V. Then turn the motionswitch to OFF and press the start button on the display. This will enable the scope. Ensure that the DPM/DPH is also turned on and adjust the Poti on the pulseboard until the reading below "vFd" shows almost 4000. It should never go above 4000.
+</br>
+It is very important to have the vFd set to a low voltage feedback before ever connecting the JST bridge to the sensorcircuit!
+The Poti on the pulseboard is set to 50% by the manufacturer. With 80v on the power terminal this would put 40v into the sensor circuit.
+The currents are small and people already made this mistake without damaging anything but it could damage something.
+The OpAmp that is connected to the scaled down bus voltage has a max input rating of around 7V. The circuit is designed for a 0-5v feedback.
+</br>
+</br>
+Once the vFd feedback is set it should look like this on the scope with the maximum input voltage turned on. 
+To activate the scope turn the motionswitch to OFF, enable the DPM/DPH with the max voltage (max 85v), press the start button on the display.
+Now the scope is active and PWM enabled too but with the motionswitch OFF it will not start any process.
+Almost 4000 but no spikes above 4000 at the vFd reading.
+If the value is >4000 or worse stuck at 4095 turn everything off, buy two pizzas and contact the emergency hotline.
+</br></br>
+<img width="500" src="./images/vfd.jpg">
+</br></br>
+
+
+
+
 # Donations
 
     * You want to donate something to support the project? 
