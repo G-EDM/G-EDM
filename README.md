@@ -121,7 +121,7 @@ The new code has a different configuration for the voltage feedback (vFd) short 
 The new default vFd should be almost 4000 @ the max possible voltage. Set the DPM/DPH to the max voltage. if the DPH is used with the 0-80V PSU something around 80V is the max possible. With the DPM it is 60V. Then turn the motionswitch to OFF and press the start button on the display. This will enable the scope. Ensure that the DPM/DPH is also turned on and adjust the Poti on the pulseboard until the reading below "vFd" shows almost 4000. It should never go above 4000.
 </br>
 It is very important to have the vFd set to a low voltage feedback before ever connecting the JST bridge to the sensorcircuit!
-The Poti on the pulseboard is set to 50% by the manufacturer. With 80v on the power terminal this would put 40v into the sensor circuit.
+The Poti on the pulseboard is set to 50% by the manufacturer. With 60v on the power terminal this would put 30v into the sensor circuit.
 The currents are small and people already made this mistake without damaging anything but it could damage something.
 The OpAmp that is connected to the scaled down bus voltage has a max input rating of around 7V. The circuit is designed for a 0-5v feedback.
 </br>
