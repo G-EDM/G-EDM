@@ -132,6 +132,8 @@ Now the scope is active and PWM enabled too but with the motionswitch OFF it wil
 Almost 4000 but no spikes above 4000 at the vFd reading.
 If the value is >4000 or worse stuck at 4095 turn everything off, buy two pizzas and contact the emergency hotline.
 </br></br>
+<img width="500" src="./images/adjustvfd.jpg">
+</br></br>
 <img width="500" src="./images/vfd.jpg">
 </br></br>
 
