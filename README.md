@@ -16,6 +16,13 @@ gedm-support@proton.me
 <img width="800" src="./images/5192821745602659994.jpg">
 </br></br>
 
+# Tips
+The Motionboard should not be placed into the same box as the pulseboard. There is sensitive communication going on with the ESP
+and switching loads can make a lot of noise that is able to mess around with the ESP.
+
+I have the motionboard mounted outside the metalbox that contains the pulseunit.
+</br></br>
+
 # License
 
 All 3D models and FreeCAD files are OpenSource. Feel free to do with it whatever you want.
