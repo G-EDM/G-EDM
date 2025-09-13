@@ -9,6 +9,13 @@ gedm-support@proton.me
 </br>
 
 
+It is currently recommended to use the EVOII Router frame with the EVOIII wire module. The EVOIII frame concept uses HGR15 with 4040 extrusions which seem not to fit well but the wire module works nice.
+
+To mount the new wire module on the old router it requires just a different X slide which I just added here:
+[>>> Backport slide to fit EVOIII wire feeder on EVOII router <<<](https://github.com/G-EDM/G-EDM/blob/main/rev2-x-slide-evoII-backport.stl)
+</br></br>
+
+
 # New EVOIII Motionboard is now available on PCBway
 
     Links are in the PCBway section further down
