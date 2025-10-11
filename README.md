@@ -1,6 +1,8 @@
 # Emergency help line - A pizza per call
 gedm-support@proton.me
 </br>
+[>>> Discord <<<](https://discord.gg/vWSmpkzVrj)
+</br>
 </br>
 
 <img src="./images/gedmbanner.jpg">
