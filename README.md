@@ -1,7 +1,9 @@
 # Emergency help line - A pizza per call
 gedm-support@proton.me
 </br>
-[>>> Discord <<<](https://discord.gg/vWSmpkzVrj)
+</br>
+# New Discord
+[>>> Join the project on Discord <<<](https://discord.gg/vWSmpkzVrj)
 </br>
 </br>
 
