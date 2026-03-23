@@ -1,5 +1,7 @@
 # Emergency help line - A pizza per call
 gedm-support@proton.me
+</br></br>
+[>>> G-EDM Website <<<](https://gedm.org)
 </br>
 </br>
 # New Discord
