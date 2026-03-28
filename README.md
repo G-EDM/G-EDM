@@ -1,4 +1,4 @@
-# Emergency help line - A pizza per call
+# DIY Sinker and Wire EDM - G-EDM
 gedm-support@proton.me
 </br></br>
 [>>> G-EDM Website <<<](https://gedm.org)
