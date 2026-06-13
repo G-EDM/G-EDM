@@ -100,7 +100,7 @@ The Repo for the Gapstorm firmware:
 [Gapstorm G-RBL](https://github.com/G-EDM/G-RBLv3)
 
 
-The Repo for the EVOII and EVOIII Pulseboard (deprecated)
+The Repo for the EVOII and EVOIII Pulseboard firmware (deprecated and not compatible with the gapstorm Pulseboard)
 
 [EVOII/III G-RBL](https://github.com/G-EDM/G-RBL-experimental)
 
