@@ -15,10 +15,8 @@ Overview / Gateway
 </br>
 
 
-<img width="400px;" src="./images/2.jpg">
-<img width="400px;" src="./images/4.jpg">
-<img width="400px;" src="./images/5.jpg">
-<img width="400px;" src="./images/7.jpg">
+<img width="400px;" src="./images/2.jpg"><img width="400px;" src="./images/4.jpg">
+<img width="400px;" src="./images/5.jpg"><img width="400px;" src="./images/7.jpg">
 
 </br>
 </br>
