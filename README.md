@@ -63,12 +63,13 @@ Files for the PCBs are available on PCBway. To build the electronics it requires
 The current PCBs are the Gapstorm Pulseboard and the EVOIII Motionboard.
 
 
-[Gapstorm Pulseboard](https://www.pcbway.com/project/shareproject/G_EDM_Gapstorm_Pulseboard_14dd4341.html)
+[Gapstorm Pulseboard on PCBway](https://www.pcbway.com/project/shareproject/G_EDM_Gapstorm_Pulseboard_14dd4341.html)
 
 
-[EVOIII Motionboard](https://www.pcbway.com/project/shareproject/W532897ASC41_motionboard_evoIII_rev3_bb113e0f.html)
+[EVOIII Motionboard on PCBway](https://www.pcbway.com/project/shareproject/W532897ASC41_motionboard_evoIII_rev3_bb113e0f.html)
 
 
+</br>
 Tip: The Motionboard should be mounted outside of the control box that includes the Pulseboard. One way is shown on the image below using the 3D printed EVOIII Panel.
 
 
