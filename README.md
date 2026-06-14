@@ -134,9 +134,12 @@ gedm-support@proton.me
 
 # Donations
 
-    * You want to donate something to support the project? 
-    * Paypal: https://www.paypal.com/donate/?hosted_button_id=QP5LHGRUCXXBL
-    * Bitcoin: bc1qkz8vwrd3pupewdtyg09qj9nv249vlgdy4ffhyv
+Paypal:
+https://www.paypal.com/donate/?hosted_button_id=QP5LHGRUCXXBL
+
+Bitcoin:
+bc1qkz8vwrd3pupewdtyg09qj9nv249vlgdy4ffhyv
+
 
 
 
