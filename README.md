@@ -114,7 +114,7 @@ FreeCAD file for the spool holder available via google drive
 [P5 Spool holder](https://drive.google.com/file/d/1b2BcEC6ozVajnSmm0BhQlqRUxJyKrMW5/view)
 
 
-[![Link to the P5 Spool holder](./images/8.jpg)](https://drive.google.com/file/d/1b2BcEC6ozVajnSmm0BhQlqRUxJyKrMW5/view)
+<img width="400px;" src="./images/8.jpg">
 
 
 </br></br>
