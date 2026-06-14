@@ -111,10 +111,10 @@ The Repo for the EVOII and EVOIII Pulseboard firmware (deprecated and not compat
 
 FreeCAD file for the spool holder available via google drive
 
-[Gapstorm router](https://drive.google.com/file/d/1b2BcEC6ozVajnSmm0BhQlqRUxJyKrMW5/view)
+[P5 Spool holder](https://drive.google.com/file/d/1b2BcEC6ozVajnSmm0BhQlqRUxJyKrMW5/view)
 
 
-[![Link to the Gapstorm router repo](./images/8.jpg)](https://drive.google.com/file/d/1b2BcEC6ozVajnSmm0BhQlqRUxJyKrMW5/view)
+[![Link to the P5 Spool holder](./images/8.jpg)](https://drive.google.com/file/d/1b2BcEC6ozVajnSmm0BhQlqRUxJyKrMW5/view)
 
 
 </br></br>
