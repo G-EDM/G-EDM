@@ -44,9 +44,7 @@ The repo for the new gapstorm router is available here:
 
 [Gapstorm router](https://github.com/G-EDM/gedm-gapstorm/tree/main)
 
-
-[![Link to the Gapstorm router repo](./images/3.jpg)](https://github.com/G-EDM/gedm-gapstorm/tree/main)
-
+<img width="400px;" src="./images/3.jpg">
 
 </br></br>
 
