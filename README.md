@@ -69,7 +69,7 @@ The current PCBs are the Gapstorm Pulseboard and the EVOIII Motionboard.
 
 </br>
 Tip: The Motionboard should be mounted outside of the control box that includes the Pulseboard. One way is shown on the image below using the 3D printed EVOIII Panel.
-</br>
+</br></br>
 <img width="400px;" src="./images/1.jpg">
 
 More images are available here:
