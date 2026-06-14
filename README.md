@@ -143,41 +143,10 @@ gedm-support@proton.me
 
 # Donations
 
-Bitcoin:</br></br>
-bc1qkz8vwrd3pupewdtyg09qj9nv249vlgdy4ffhyv
+Bitcoin: bc1qkz8vwrd3pupewdtyg09qj9nv249vlgdy4ffhyv
 
-Paypal:</br></br>
+Paypal: https://www.paypal.com/donate/?hosted_button_id=QP5LHGRUCXXBL
 
-[![Paypal](https://www.paypalobjects.com/ppcp/images/covid/donations@x600.png)](https://www.paypal.com/donate/?hosted_button_id=QP5LHGRUCXXBL)
-
-</br>   
-</br>
-
-# Credits to whom credits belong
-
-    Thanks for the support and help to keep the project going.
-
-    @ Tanatara
-    @ 8kate
-    @ Ethan Hall
-    @ Esteban Algar
-    @ 666
-    @ td1640
-    @ Nikolay
-    @ MaIzOr
-    @ DANIEL COLOMBIA
-    @ charlatanshost
-    @ tommygun
-    @ renyklever
-    @ Zenitheus
-    @ gerritv
-    @ cnc
-    @ Shrawan Khatri
-    @ Alex Treseder
-    @ VB
-    @ AndrewS
-    @ TK421
-    @ sarnold04
 
 </br>   
 </br>
