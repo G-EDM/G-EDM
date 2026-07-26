@@ -105,13 +105,7 @@ The Repo for the EVOII and EVOIII Pulseboard firmware (deprecated and not compat
 
 # Spool holder for P5 spools
 
-FreeCAD file for the spool holder available via google drive
-
-[P5 Spool holder](https://drive.google.com/file/d/1b2BcEC6ozVajnSmm0BhQlqRUxJyKrMW5/view)
-
-
-<img width="400px;" src="./images/8.jpg">
-
+[P5 Spool holder](https://github.com/G-EDM/spool-controller)
 
 </br></br>
 
