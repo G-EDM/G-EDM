@@ -1,6 +1,6 @@
 1x G-EDM EVOIII Pulseboard
 
-1x G-EDM EVOII or EVOIII Motionboard
+1x G-EDM Motionboard
 
 1x ESP32 WROOM32 AZdelivery 38Pins CP2102
 
@@ -12,7 +12,6 @@
 
 JST wires of different types.
 
-1x 10A 75mV Shunt
 
 1x 12V Cooling fan (No high speed fans. Simple 120mmx20mm silent fan is ok. High Speed fans may induce noise etc.)
 
@@ -93,7 +92,3 @@ Lianshi 0-80v variable voltage PSU (6A 480W):
 
 https://www.amazon.de/dp/B0BQ33XG33
 
-# Connecting the shunt
-
-It does not break anything if the shunt sensing wires are connected wrong on the pulseboard. It would just not generate a feedback reading.
-If no cFd reading is visible try swapping the shunt sensing wires on the terminal. High side goes to the left input. Or it should. Don't remember currently.
