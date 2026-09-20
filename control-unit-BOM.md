@@ -1,4 +1,4 @@
-1x G-EDM EVOIII Pulseboard
+1x G-EDM Pulseboard
 
 1x G-EDM Motionboard
 
