@@ -58,7 +58,7 @@ The BOM for the control unit is included on this repo:
 
 Files for the PCBs are available on PCBway. To build the electronics it requires two custom PCBs. The switching PCB and the Controlboard aka Motionboard. 
 
-The current PCBs are the Gapstorm Pulseboard and the EVOIII Motionboard.
+The current PCBs are the Gapstorm Pro Pulseboard and the EVOIII Motionboard.
 
 
 [Gapstorm Pro Pulseboard on PCBway](https://www.pcbway.com/project/shareproject/G_EDM_Gapstorm_Pro_Pulseboard_a0db8e30.html)
@@ -66,6 +66,10 @@ The current PCBs are the Gapstorm Pulseboard and the EVOIII Motionboard.
 
 [EVOIII Motionboard on PCBway](https://www.pcbway.com/project/shareproject/W532897ASC41_motionboard_evoIII_rev3_bb113e0f.html)
 
+</br>
+All files for the Gapstorm Pro Board are available here:
+
+[Gapstorm Pro Kicad files, Gerbers etc.](https://github.com/G-EDM/Gapstorm-Pro)
 
 </br>
 Tip: The Motionboard should be mounted outside of the control box that includes the Pulseboard. One way is shown on the image below using the 3D printed EVOIII Panel.
